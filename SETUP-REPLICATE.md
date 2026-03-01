@@ -1,4 +1,4 @@
-# הגדרת Replicate לפרויקט Pilgrim
+ # הגדרת Replicate לפרויקט Pilgrim
 
 ## שלב 1: התקנת Python
 

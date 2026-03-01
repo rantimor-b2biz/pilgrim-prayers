@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O-output/01-briefs/week-8/2026-02-24-research-agent-brief.md",
+                "file": "SETUP-REPLICATE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-24-research-agent-brief"
+              "title": "SETUP-REPLICATE"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"video_type\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,12 +165,12 @@
               "title": "Outline of Welcome"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,48 +180,49 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "beef211ae4b0e354",
   "lastOpenFiles": [
+    "T-tools/prompts/BONUS/08-connect-api-keys.md",
+    "O-output/02-deliverables/week-9-deliverables/israel-support-email/final-email.md",
+    "O-output/02-deliverables/week-9-deliverables/israel-support-email",
+    "Untitled.base",
+    "Untitled 1.base",
+    "T-tools/prompts/02-learn-my-writing-style.md",
+    "O-output/02-deliverables/israel-support-email/final-email.md",
+    "B-brain/api-keys-registry.md",
+    "B-brain/writing-samples/sample-05.md",
+    "B-brain/writing-samples/sample-06.md",
+    "B-brain/writing-samples/sample-01.md",
+    "B-brain/clarity-analysis/2026-02-23-clarity-analysis.md",
+    "O-output/02-deliverables/week-8-deliverables/copywriter/2026-02-24-garden-tomb-post.md",
+    "O-output/02-deliverables/week-8-deliverables/newsletter/2026-02-24-garden-tomb-email.md",
+    "O-output/02-deliverables/week-9-deliverables/copywriter/2026-03-01-via-dolorosa-post.md",
+    "O-output/02-deliverables/week-9-deliverables/visual/2026-03-01-via-dolorosa-visual-direction.md",
+    "O-output/05-archive/blog-posts/week-13/final-post.md",
+    "O-output/02-deliverables/israel-support-email",
+    "T-tools/scripts/sync-log.txt",
+    "T-tools/scripts/setup-auto-sync.bat",
+    "T-tools/scripts/auto-sync.ps1",
+    "O-output/02-deliverables/week-9-deliverables/storyteller/2026-03-01-via-dolorosa-story.md",
+    "O-output/02-deliverables/week-9-deliverables/newsletter/2026-03-01-via-dolorosa-email.md",
+    "O-output/02-deliverables/week-9-deliverables/research/2026-03-01-via-dolorosa-research.md",
+    "O-output/02-deliverables/week-9-deliverables/gatekeeper/2026-03-01-via-dolorosa-review.md",
+    "O-output/02-deliverables/week-9-deliverables/visual",
+    "O-output/02-deliverables/week-9-deliverables/storyteller",
+    "O-output/02-deliverables/week-9-deliverables/research",
+    "SETUP-REPLICATE.md",
+    "DELIVERABLES.md",
+    "O-output/01-briefs/week-8/2026-02-24-research-agent-brief.md",
     "O-output/01-briefs/week-8/2026-02-24-WEEK8-CONTENT-WORKFLOW.md",
     "CALENDAR-INVITE-INSTRUCTIONS.md",
     "M-memory/decisions.md",
-    "O-output/02-deliverables/week-8-deliverables/newsletter/2026-02-24-garden-tomb-email.md",
     "O-output/03-published/blog-posts/2026-02/week-8/garden-tomb-quiet-morning.md",
-    "O-output/02-deliverables/week-8-deliverables/PUBLICATION-PACKAGE.md.tmp.35412.1771953006839",
-    "O-output/02-deliverables/week-8-deliverables/storyteller/2026-02-24-garden-tomb-story.md.tmp.35412.1771952978690",
-    "O-output/02-deliverables/week-8-deliverables/storyteller/2026-02-24-garden-tomb-story.md.tmp.35412.1771952973103",
-    "O-output/02-deliverables/week-8-deliverables/research/2026-02-24-garden-tomb-research.md.tmp.35412.1771952961516",
-    "O-output/02-deliverables/week-8-deliverables/research/2026-02-24-garden-tomb-research.md.tmp.35412.1771952960843",
-    "O-output/02-deliverables/week-8-deliverables/gatekeeper/2026-02-24-garden-tomb-review.md.tmp.35412.1771952957676",
-    "O-output/02-deliverables/week-8-deliverables/newsletter/2026-02-24-garden-tomb-email.md.tmp.35412.1771952945689",
-    "O-output/02-deliverables/week-8-deliverables/newsletter/2026-02-24-garden-tomb-email.md.tmp.35412.1771952944254",
-    "O-output/02-deliverables/week-8-deliverables/newsletter/2026-02-24-garden-tomb-email.md.tmp.35412.1771952943466",
-    "O-output/02-deliverables/week-8-deliverables/copywriter/2026-02-24-garden-tomb-post.md.tmp.35412.1771952933255",
     "O-output/01-briefs/week-8/2026-02-24-week8-garden-tomb-brief.md",
-    "O-output/02-deliverables/week-8-deliverables/PUBLICATION-PACKAGE.md",
-    "O-output/02-deliverables/week-8-deliverables/gatekeeper/2026-02-24-garden-tomb-review.md",
-    "O-output/02-deliverables/week-8-deliverables/visual/2026-02-24-garden-tomb-visual-direction.md",
-    "O-output/02-deliverables/week-8-deliverables/storyteller/2026-02-24-garden-tomb-story.md",
-    "O-output/02-deliverables/week-8-deliverables/research/2026-02-24-garden-tomb-research.md",
-    "O-output/02-deliverables/week-8-deliverables/copywriter/2026-02-24-garden-tomb-post.md",
-    "O-output/01-briefs/week-8/TODAY-ACTION-SUMMARY.md",
-    "O-output/01-briefs/week-8/AGENT-ACTION-PLANS.md",
-    "O-output/01-briefs/week-8/URGENT-COMPRESSED-TIMELINE.md",
-    "DELIVERABLES.md",
-    "O-output/01-briefs/week-8/WEEK8-QUICK-START.md",
-    "O-output/00-index/FINAL-STRUCTURE.md",
-    "T-tools/skills/ux-expert-skill/ux-expert-skill.md",
-    "O-output/05-archive/blog-posts/week-13/final-newsletter.md",
-    "O-output/05-archive/blog-posts/week-13/final-post.md",
     "O-output/05-archive/blog-posts/week-12/images/hero.png",
-    "O-output/05-archive/blog-posts/week-12/storyteller-draft.md",
-    "O-output/05-archive/blog-posts/week-12/visual-brief.md",
-    "O-output/05-archive/blog-posts/week-12/newsletter-version.md",
-    "O-output/05-archive/blog-posts/week-12/gatekeeper-review.md",
-    "O-output/05-archive/blog-posts/week-12/gatekeeper-review-newsletter.md",
     "O-output/12.2-weekly-post-galilee-living-land/images/hero.png",
     "Untitled.canvas",
     "Untitled 3.canvas",
