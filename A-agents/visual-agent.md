@@ -99,7 +99,7 @@ The main image at the top of each blog post. This is the first thing people see.
 | **Detail** | Close-up of prayer notes folded into cracks in ancient stone |
 | **Hands** | Hands placing a small note into the Wall — soft focus background |
 | **Nature** | Olive trees in Gethsemane with morning light filtering through |
-| **Path** | The Via Dolorosa — narrow stone corridor, light at the end |
+| **Path** | Gordon's Calvary — the rocky hillside outside the city wall, bare and stark against the sky |
 | **Light** | Candlelight inside the Church of the Holy Sepulchre |
 
 ### 2. Inline Images (Within the Post)

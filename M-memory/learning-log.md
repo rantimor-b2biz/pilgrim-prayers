@@ -487,10 +487,38 @@ Every crisis email must:
 
 ---
 
+## 2026-03-01 - Site Correction: Via Dolorosa is Not an Evangelical Site
+
+### Feedback
+**User directive:** Via Dolorosa is not a common evangelical site in Jerusalem.
+
+### Why This Matters
+Via Dolorosa is rooted in the Catholic tradition of the Stations of the Cross — a liturgical practice most evangelicals do not observe. Using it as a featured site signals the wrong tradition and could feel alien or even off-putting to our audience.
+
+### Correction Applied
+**Removed:** Via Dolorosa from all agent references and the content calendar.
+
+**Replaced with:** Gordon's Calvary / Golgotha — the skull-shaped hill adjacent to the Garden Tomb, identified by Protestant tradition (not Catholic ritual) as the crucifixion site. This is consistent with the evangelical affinity for the Garden Tomb as the Protestant resurrection site.
+
+### Rule Going Forward
+Do not use Catholic-tradition sites as primary evangelical touchpoints:
+- **Avoid as primary sites:** Via Dolorosa (Stations of the Cross), Church of the Holy Sepulchre (Catholic/Orthodox primary), shrines to Mary
+- **Use instead:** Garden Tomb, Gordon's Calvary, Gethsemane, Mount of Olives, Western Wall, Jordan River, Sea of Galilee, Capernaum, Bethany
+
+**Test:** Would a Southern Baptist or non-denominational pastor recommend this site to their congregation on a pilgrimage? If no, don't lead with it.
+
+### Files Updated
+- `B-brain/content-calendar.md` — Week 10 changed from Via Dolorosa to Gordon's Calvary
+- `A-agents/storyteller-agent.md` — Key sites table updated
+- `A-agents/visual-agent.md` — Visual example updated
+
+---
+
 ## Version History
 
 | Date | Update | By |
 |------|--------|-----|
+| 2026-03-01 | Site correction: Via Dolorosa removed — not an evangelical site | Claude |
 | 2026-03-01 | Crisis email revised: Israel Support — conversion-focused rules documented | Claude |
 | 2026-02-26 | Audience language variations: Approved terms to vary copy while avoiding "evangelical" | Claude |
 | 2026-02-24 | Operational timeline documented: Monday deadline for Thursday publication | Claude |

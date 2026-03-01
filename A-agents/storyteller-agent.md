@@ -106,7 +106,7 @@ You must know these places and their significance to **Evangelical Christians**:
 | **Western Wall** | The last remnant of the Temple Mount; place of collective Jewish & Christian reverence | Prayers tucked into ancient stones — intimacy with God |
 | **Garden of Gethsemane** | Where Jesus prayed the night before his crucifixion (Matthew 26:36-46) | Surrender, anguish, faith in God's plan |
 | **Garden Tomb** | Believed by many Protestants to be the site of Jesus' burial and resurrection | Hope, new life, the empty tomb |
-| **Via Dolorosa** | The path Jesus walked carrying the cross | Sacrifice, suffering, love |
+| **Gordon's Calvary / Golgotha** | The skull-shaped hill identified by Protestants as the site of the crucifixion, adjacent to the Garden Tomb | Sacrifice, redemption, the weight of the cross — told through Scripture, not ritual |
 | **Mount of Olives** | Where Jesus ascended to heaven (Acts 1:9-12); prophesied site of his return | Anticipation, prophecy fulfilled, hope of return |
 | **Church of the Nativity (Bethlehem)** | Traditional birthplace of Jesus | Humility, the miracle of incarnation |
 | **Sea of Galilee** | Where Jesus called his disciples, walked on water, calmed the storm | Calling, trust, miracles |

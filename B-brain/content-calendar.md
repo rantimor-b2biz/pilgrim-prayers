@@ -70,7 +70,7 @@ This calendar is built for **Evangelical Christians** — our primary audience. 
 | Week | Date | Topic | Structure | Holy Land Site | Notes |
 |------|------|-------|-----------|----------------|-------|
 | 9 | Mar 2 | The road from Galilee to Jerusalem | 📜 HISTORY | Galilee → Jerusalem route | Jesus' final journey |
-| 10 | Mar 9 | A prayer placed on the Via Dolorosa | 🕊️ FIELD | Via Dolorosa | Walking the path Jesus walked |
+| 10 | Mar 9 | Standing at Golgotha — the hill where it all changed | 🕊️ FIELD | Gordon's Calvary / Garden Tomb area | The crucifixion site; sacrifice and redemption |
 | 11 | Mar 16 | Bethany — the home where Jesus found rest | ⛰️ PLACE | Bethany | Friendship, rest, resurrection of Lazarus |
 | 12 | Mar 23 | Gethsemane — the prayer no one wanted to pray | 🕯️ QUIET | Garden of Gethsemane | Jesus' anguish; surrender to God's will |
 | — | **Mar 29** | **🌿 Palm Sunday** | | | |
