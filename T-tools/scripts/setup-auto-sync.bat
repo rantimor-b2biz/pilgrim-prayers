@@ -3,7 +3,7 @@
 :: Registers the auto-sync script with Windows Task Scheduler
 :: Run ONCE as Administrator — right-click → "Run as administrator"
 
-set PROJECT_PATH=C:\Users\rant\Documents\ran-workspace\Pilgrim
+set PROJECT_PATH=C:\Users\rant\Documents\ran-workspace\Pilgrim Prayers
 set SCRIPT_PATH=%PROJECT_PATH%\T-tools\scripts\auto-sync.ps1
 set TASK_NAME=PilgrimPrayers-GitSync
 

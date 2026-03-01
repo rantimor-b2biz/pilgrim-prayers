@@ -6,7 +6,7 @@
 # Manual run: Right-click → Run with PowerShell
 
 param(
-    [string]$ProjectPath = "C:\Users\rant\Documents\ran-workspace\Pilgrim",
+    [string]$ProjectPath = "C:\Users\rant\Documents\ran-workspace\Pilgrim Prayers",
     [int]$IntervalMinutes = 5,
     [switch]$RunOnce
 )
