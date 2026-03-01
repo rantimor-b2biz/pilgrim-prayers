@@ -443,10 +443,55 @@ Audience research shows "evangelical" creates instant resistance and closes door
 
 ---
 
+## 2026-03-01 - Crisis Email: Israel Support (Revised for Conversion)
+
+### Status
+✅ Revised and approved — replaces original "We are here. So is Jerusalem."
+
+### What Changed and Why
+
+**Strategic pivot:** Original was brand-awareness/reflective. Revised version is conversion-focused (prayer placements).
+
+**Key revisions applied:**
+- Subject line changed from `We are here. So is Jerusalem.` to `Pray for the Peace of Jerusalem — Today` (action-oriented)
+- Opening "All of Israel is under attack" removed (geopolitical framing) — replaced with "These are difficult days in Israel" (spiritual framing)
+- Psalm 122:6 added as primary Scripture anchor (missing from original)
+- Emotional flow restructured: Crisis > Spiritual reframing > Scripture > Invitation > CTA
+- CTA language strengthened: "stand with Jerusalem" + "today" (from passive "if you feel moved")
+- P.S. added with spiritual urgency and subtle social proof
+
+### Pattern Discovered: Crisis Email Rules
+
+| Element | Passive Version | Conversion Version |
+|---|---|---|
+| Opening | Geopolitical headline | Spiritual observation |
+| Scripture | Optional | Required anchor |
+| CTA | "If you feel moved..." | "Stand with... today" |
+| P.S. | None | Social proof + urgency |
+| Tone | Reflective | Activating |
+
+**Key rule:** In moments of crisis, Scripture dramatically increases response rate for our audience. Psalm 122:6 ("Pray for the peace of Jerusalem") is the primary anchor for Israel-related campaigns. Always include it.
+
+**Framing rule:** We are a spiritual bridge, not a geopolitical commentator. Avoid war headlines and news framing. Lead with spiritual urgency.
+
+### Going Forward
+Every crisis email must:
+1. Use spiritually framed language (not news headlines)
+2. Include a direct Scripture anchor
+3. Use active CTA language ("stand with", "today")
+4. Include a conversion-focused P.S.
+5. Follow flow: Crisis > Scripture > Invitation > Action > CTA
+
+### Files Updated
+- `O-output/02-deliverables/israel-support-email/final-email.md` — replaced with approved conversion version
+
+---
+
 ## Version History
 
 | Date | Update | By |
 |------|--------|-----|
+| 2026-03-01 | Crisis email revised: Israel Support — conversion-focused rules documented | Claude |
 | 2026-02-26 | Audience language variations: Approved terms to vary copy while avoiding "evangelical" | Claude |
 | 2026-02-24 | Operational timeline documented: Monday deadline for Thursday publication | Claude |
 | 2026-02-24 | Critical writing standard: NO EM DASHES - applied to all content | Claude |

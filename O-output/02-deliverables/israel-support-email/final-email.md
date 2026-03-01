@@ -1,55 +1,80 @@
-# Israel Support Email — Final Version
+# Israel Support Email — Final Version (Revised)
 
 **Date:** 2026-03-01
 **Type:** Special send (not part of weekly cycle)
-**Status:** ✅ Approved by Agency Manager
+**Status:** ✅ Revised per strategic feedback — Conversion-focused
 
 ---
 
 ## Subject Line
 
-`We are here. So is Jerusalem.`
+`Pray for the Peace of Jerusalem — Today`
 
 ---
 
 ## Email Body
 
-All of Israel is under attack.
+These are difficult days in Israel.
 
-Not just one city. Not just the north.
+When the Holy Land trembles, believers around the world feel it too.
 
-The entire land where our faith was born.
+This is not a political moment. It is a spiritual one.
 
-We wanted to write to you today, simply to say: we are here. We are thinking of you. And we are thinking of Israel.
+Scripture calls us clearly:
 
-This people has known exile. Destruction. Wars that seemed impossible to survive. And still, for thousands of years, they have endured. They are still here. Still in the same land. Still in the same city.
+*"Pray for the peace of Jerusalem: may those who love you be secure."* — Psalm 122:6
 
-Jerusalem has outlasted every storm that came before this one.
+Today, that prayer carries deep meaning.
 
-It will outlast this one too.
+Our team remains here in the Holy Land, near the sacred places where Jesus walked and taught. Even in uncertain days, we continue to carry prayers with reverence and faith.
 
-Our team remains here, in the Holy Land, close to the sacred places where Jesus walked, taught, and preached. Whenever you are ready, whenever your heart leads you, we will continue to carry your prayers to these places.
+If your heart feels stirred, stand with Jerusalem in prayer today.
+
+Place a prayer for:
+
+- Protection
+- Peace
+- Comfort for families
+- Strength for the people of Israel
 
 From your heart to God's ear.
 
-That is our calling. And it does not stop.
-
-If you feel moved to place a prayer for Israel, for its people, for the peace of Jerusalem, we are here to carry it.
-
 With love and faith,
-The Pilgrim Prayers team
+The Pilgrim Prayers Team
 
-**[Place a Prayer for Israel]**
+**[Place a Prayer for Israel Today]**
+
+---
+
+*P.S. In times like this, many believers choose to place a prayer specifically for the peace of Jerusalem. If God is placing Israel on your heart today, do not wait. We are here to carry your prayer.*
+
+---
+
+## Revision Notes
+
+**Why this version replaces the original:**
+
+| Element | Original | Revised |
+|---|---|---|
+| Subject line | `We are here. So is Jerusalem.` | `Pray for the Peace of Jerusalem — Today` |
+| Opening | "All of Israel is under attack" (geopolitical) | "These are difficult days in Israel" (spiritual) |
+| Scripture | None | Psalm 122:6 (required anchor) |
+| Emotional flow | Crisis → History → Endurance → CTA | Crisis → Spiritual reframing → Scripture → Invitation → CTA |
+| CTA language | "If you feel moved…" (passive) | "Stand with Jerusalem in prayer today" (active) |
+| P.S. | None | Conversion-focused with social proof |
+
+**Strategic objective:** Conversion — prayer placements during a moment of heightened spiritual attention.
 
 ---
 
 ## Gatekeeper Notes
 
 - Zero em dashes: ✅
-- Subject line under 50 chars: ✅ (30 chars)
-- One CTA only: ✅
-- No political messaging: ✅
+- Subject line clear and action-oriented: ✅
+- Scripture included (Psalm 122:6): ✅
+- No geopolitical framing: ✅
 - No false promises: ✅
 - Brand voice (warm, faithful, not preachy): ✅
-- Resilience theme (thousands of years): ✅
-- Team commitment worded correctly (future, not present): ✅
+- Active CTA language ("stand with", "today"): ✅
+- P.S. with spiritual urgency and social proof: ✅
+- One primary CTA only: ✅
