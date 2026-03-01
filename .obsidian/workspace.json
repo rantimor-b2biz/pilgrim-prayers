@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SETUP-REPLICATE.md",
+                "file": "O-output/02-deliverables/week-10-deliverables/gatekeeper/2026-03-03-purim-review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SETUP-REPLICATE"
+              "title": "2026-03-03-purim-review"
             }
           }
         ]
@@ -184,16 +184,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e4244a9feac0da05",
+  "active": "beef211ae4b0e354",
   "lastOpenFiles": [
+    "M-memory/learning-log.md.tmp.59428.1772403421482",
+    "O-output/02-deliverables/week-10-deliverables/visual/2026-03-03-purim-visual-direction.md",
+    "T-tools/scripts/generate-purim-image.py",
+    "T-tools/scripts/generate-purim-image.py.tmp.59428.1772403031027",
     "O-output/02-deliverables/week-10-deliverables/PUBLICATION-PACKAGE.md",
     "O-output/02-deliverables/week-10-deliverables/gatekeeper/2026-03-03-purim-review.md",
+    "O-output/02-deliverables/week-10-deliverables/copywriter/2026-03-03-purim-post.md",
+    "SETUP-REPLICATE.md",
     "O-output/02-deliverables/week-10-deliverables/gatekeeper",
-    "O-output/02-deliverables/week-10-deliverables/visual/2026-03-03-purim-visual-direction.md",
     "O-output/02-deliverables/week-10-deliverables/visual",
     "O-output/02-deliverables/week-10-deliverables/newsletter/2026-03-03-purim-newsletter.md",
     "O-output/02-deliverables/week-10-deliverables/newsletter",
-    "O-output/02-deliverables/week-10-deliverables/copywriter/2026-03-03-purim-post.md",
     "O-output/02-deliverables/week-10-deliverables/copywriter",
     "O-output/02-deliverables/week-10-deliverables/storyteller/2026-03-03-purim-story.md",
     "O-output/02-deliverables/week-10-deliverables/storyteller",
@@ -203,8 +207,6 @@
     "T-tools/prompts/BONUS/08-connect-api-keys.md",
     "O-output/02-deliverables/week-9-deliverables/israel-support-email/final-email.md",
     "O-output/02-deliverables/week-9-deliverables/israel-support-email",
-    "Untitled.base",
-    "Untitled 1.base",
     "T-tools/prompts/02-learn-my-writing-style.md",
     "O-output/02-deliverables/israel-support-email/final-email.md",
     "B-brain/api-keys-registry.md",
@@ -220,8 +222,6 @@
     "O-output/02-deliverables/week-9-deliverables/storyteller/2026-03-01-via-dolorosa-story.md",
     "O-output/02-deliverables/week-9-deliverables/newsletter/2026-03-01-via-dolorosa-email.md",
     "O-output/02-deliverables/week-9-deliverables/research/2026-03-01-via-dolorosa-research.md",
-    "O-output/02-deliverables/week-9-deliverables/gatekeeper/2026-03-01-via-dolorosa-review.md",
-    "SETUP-REPLICATE.md",
     "O-output/05-archive/blog-posts/week-12/images/hero.png",
     "O-output/12.2-weekly-post-galilee-living-land/images/hero.png",
     "Untitled.canvas",

@@ -476,10 +476,31 @@ Structure 3: Prayer in Place
 
 ---
 
+## 2026-03-02 - Critical Project Standard: Authentic Images Only
+
+### Project Preference (PERMANENT)
+**ALWAYS use authentic, real photography in this project. NEVER generate images with AI.**
+
+This applies to:
+- Blog post hero images
+- Newsletter graphics
+- Social media visuals
+- All visual assets
+
+**Why:** Brand DNA is rooted in "Real photography over stock — hands, notes, stones, light, and place"
+
+### Workflow Impact
+- When image is needed: Ask user to provide authentic photo
+- If no photo available: Use real stock photography (Unsplash, Pexels)
+- Do NOT use DALL-E, Midjourney, Replicate, or any AI image generation
+
+---
+
 ## Version History
 
 | Date | Update | By |
 |------|--------|-----|
+| 2026-03-02 | Critical standard: Authentic images only, no AI generation | Claude |
 | 2026-03-01 | Weekly post #9: Via Dolorosa - full pipeline approved | Claude |
 | 2026-02-26 | Audience language variations: Approved terms to vary copy while avoiding "evangelical" | Claude |
 | 2026-02-24 | Operational timeline documented: Monday deadline for Thursday publication | Claude |
