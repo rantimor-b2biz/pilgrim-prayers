@@ -110,6 +110,43 @@ Additional checks for blog posts and newsletters:
 11. For newsletters: Subject line under 50 chars? One CTA only?
 12. Zero em dashes throughout?
 
+### Visual Review (Generated Images from Replicate)
+
+After Visual Agent runs Replicate and reports generated images:
+
+**Brand:**
+- [ ] Warm tone — Jerusalem gold, ancient stone, parchment (not cold, dark, or blue-grey)
+- [ ] Feels like "a quiet photograph taken by someone who was truly there"
+- [ ] No stock photography feel (no perfect models, no staged hands, no lens flare)
+
+**Content safety:**
+- [ ] No political imagery (soldiers, flags, barriers, protests)
+- [ ] No identifiable faces (privacy)
+- [ ] No Catholic/Orthodox iconography (crucifixes, icons, rosaries, ornate altars)
+- [ ] No tourist crowds or souvenir-shop atmosphere
+- [ ] No graphic suffering or violence
+
+**Technical:**
+- [ ] Hero image has clear space for text overlay (left or right third)
+- [ ] Newsletter header readable at mobile size (600px)
+- [ ] Social sharing image has one clear focal point at thumbnail size
+- [ ] Images are in the correct folder: `.../visual/images/`
+
+**Decision options:**
+
+| Decision | Action |
+|----------|--------|
+| APPROVED | All images sign off — proceed to publish |
+| REVISE ONE IMAGE | Name the specific image + exact feedback. Visual Agent updates that prompt + re-runs `--force` |
+| REVISE ALL | Visual Agent rewrites brief + re-runs all images |
+
+**Giving useful revision feedback (be specific):**
+- "Hero image is too dark — add warm morning light"
+- "Newsletter header feels like a stock photo — add a specific Jerusalem detail"
+- "Social sharing image has too many competing elements — simplify to one focal point"
+
+---
+
 ### Paid Search Ad Review
 
 Additional checks for Google Ads:

@@ -390,18 +390,78 @@ When delivering visual direction for a post:
 
 ## Output Location
 
-Save all work to: `O-output/[number]-weekly-post-[slug]/visual-brief.md`
+**Brief file:** `O-output/02-deliverables/week-[N]-deliverables/visual/visual-brief.md`
+**Generated images:** `O-output/02-deliverables/week-[N]-deliverables/visual/images/` (created automatically by the script)
 
 ---
 
-## Collaboration Flow
+## Collaboration Flow (Full Loop with Replicate)
 
-1. Wait for the Storyteller to deliver the draft (or the Gatekeeper to approve `final-post.md`)
-2. Read the post and the Storyteller's "Suggested Imagery" notes
-3. Create the visual brief with AI prompts
-4. Deliver for Gatekeeper review
-5. Revise if needed
-6. Final prompts ready for image generation
+### Step 1: Create the Visual Brief
+
+1. Wait for Storyteller draft or Gatekeeper-approved `final-post.md`
+2. Read the post and Storyteller "Suggested Imagery" notes
+3. Write `visual-brief.md` in the project's `visual/` folder following the Output Format below
+4. The file **must be named `visual-brief.md`** exactly — the script depends on this name
+
+### Step 2: Generate Images via Replicate
+
+Run the generation script from the workspace root:
+
+```bash
+python T-tools/scripts/generate-replicate.py O-output/02-deliverables/week-[N]-deliverables/visual/visual-brief.md
+```
+
+The script will:
+- Read all AI prompts from `visual-brief.md`
+- Select the optimal model per image type (Flux Pro for hero, Schnell for inline, Recraft for social)
+- Call Replicate API and download the results
+- Save all images to `.../visual/images/` automatically
+
+**Optional flags:**
+```bash
+# Add video generation
+python T-tools/scripts/generate-replicate.py [path] --video
+
+# Force regeneration of existing images
+python T-tools/scripts/generate-replicate.py [path] --force
+
+# Use a specific model for all images
+python T-tools/scripts/generate-replicate.py [path] --model flux-schnell
+```
+
+### Step 3: Report to Agency Manager
+
+After generation completes, report to the Gatekeeper:
+
+```
+VISUAL GENERATION COMPLETE — Week [N]: [Post Title]
+
+Images generated:
+- hero.png → O-output/.../visual/images/hero.png
+- inline-1.png → O-output/.../visual/images/inline-1.png
+- newsletter-header.png → O-output/.../visual/images/newsletter-header.png
+- social-sharing.png → O-output/.../visual/images/social-sharing.png
+
+Estimated cost: $[amount]
+Ready for Agency Manager review.
+```
+
+### Step 4: Revision Loop (if rejected)
+
+If the Agency Manager requests changes:
+
+1. Update the relevant prompt(s) in `visual-brief.md`
+2. Re-run the script with `--force` to regenerate only what changed:
+
+```bash
+python T-tools/scripts/generate-replicate.py [path] --force
+```
+
+3. Report the revised images back to the Agency Manager
+4. Repeat until approved
+
+**For targeted regeneration** (one image only), edit the specific section in `visual-brief.md` and run with `--force`.
 
 ---
 
