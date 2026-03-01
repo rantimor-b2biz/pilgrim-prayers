@@ -443,10 +443,44 @@ Audience research shows "evangelical" creates instant resistance and closes door
 
 ---
 
+## 2026-03-01 - Weekly Post #9: Via Dolorosa - "The Road That Still Receives"
+
+### Status
+APPROVED - Full pipeline complete. Publication Thursday March 5, 2026.
+
+### Context
+First post deliberately shaped by digital performance data (GSC + GA4). The healing prayer audience (cancer search queries dominant in GSC) was targeted through character Carol - a caregiver whose husband has cancer. First direct bridge between the organic content audience and the service conversion audience.
+
+### Structure Used
+Structure 3: Prayer in Place
+
+### What Worked
+- **Character naming creates instant intimacy.** Carol + three words: "Carry him, Lord." Pattern: named character + ultra-short prayer (1-5 words maximum).
+- **"Prayers travel farther than feet"** - new reusable line. Brand phrase candidate.
+- **Lent season alignment.** Structure 3 (Prayer in Place) confirmed for carrying-seasons: Lent, Advent, grief.
+- **"Familiar. Not distant from it."** - Isaiah 53:3 landed as a single echoed word, not a quote. This is how Scripture works in our voice.
+- **The Fourth Station detail** (woman in gray coat, hand on wall) - real, specific, grounded.
+
+### Pattern Discovered
+- **Digital data informs emotional angle, not topic.** Write about something real through the emotional lens of the search audience. The content stays authentic; the angle speaks to the searcher.
+- **Three-word prayers carry the most weight.** Shorter = more powerful.
+- **Lent is a seasonal content window like Advent.** Plan 3-post Lent sprint next year starting Week 1.
+
+### Digital Intelligence Applied
+- GA4: Western Wall page top converter (2.7% mobile) - pattern for future site selection
+- GSC: /how-to-pray-for-healing has 0.6% CTR on 4,173 impressions - Meta title rewrite priority
+- GSC: "holy land prayer request" at 6.9% CTR - prime for Google Ads
+
+### Files Created
+- `O-output/02-deliverables/week-9-deliverables/` (all 6 deliverables)
+
+---
+
 ## Version History
 
 | Date | Update | By |
 |------|--------|-----|
+| 2026-03-01 | Weekly post #9: Via Dolorosa - full pipeline approved | Claude |
 | 2026-02-26 | Audience language variations: Approved terms to vary copy while avoiding "evangelical" | Claude |
 | 2026-02-24 | Operational timeline documented: Monday deadline for Thursday publication | Claude |
 | 2026-02-24 | Critical writing standard: NO EM DASHES - applied to all content | Claude |
