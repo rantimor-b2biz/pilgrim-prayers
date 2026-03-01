@@ -1,74 +1,58 @@
 # Newsletter — Israel Support Campaign
 
 **Date:** 2026-03-01
-**Type:** Blog post announcement (accompanies Israel support blog post)
-**Status:** Draft — awaiting gatekeeper review
+**Type:** Conversion email — special send (not part of weekly cycle)
+**Status:** FINAL — Approved
 
 ---
 
 ## Subject Line
 
-`Even now, we are carrying prayers in Jerusalem`
-
-## Preheader Text
-
-Our team is still at the sacred places. Your prayer can reach them too.
+`Pray for the Peace of Jerusalem — Today`
 
 ---
 
 ## Email Body
 
-Dear Friend,
+These are difficult days in Israel.
 
-Jerusalem is quieter than usual this season.
+When the Holy Land trembles, believers around the world feel it too.
 
-Fewer pilgrims. Fewer footsteps in the Old City lanes.
+This is not a political moment. It is a spiritual one.
 
-But our team is still there. Every week, walking to the Western Wall, the Garden Tomb, the Garden of Gethsemane. Carrying prayers from believers who cannot travel, but whose faith has lived here for years.
-
-And the prayers keep coming.
-
-From people who want to do something real. Who feel the distance and want to close it, even a little.
-
-Scripture has always called us to this:
+Scripture calls us clearly:
 
 *"Pray for the peace of Jerusalem: may those who love you be secure."* — Psalm 122:6
 
-That calling hasn't changed.
+Today, that prayer carries deep meaning.
 
-**Read the full story from Jerusalem:**
+Our team remains here in the Holy Land, near the sacred places where Jesus walked and taught. Even in uncertain days, we continue to carry prayers with reverence and faith.
 
-[Even Now, We Are Carrying Prayers in Jerusalem](link-to-blog-post)
+If your heart feels stirred, stand with Jerusalem in prayer today.
 
----
+Place a prayer for:
 
-**Place a prayer for Jerusalem today.**
-
-For protection. For peace. For the people of the Holy Land.
-
-We will carry it to the sacred places. With care. With reverence.
+- Protection
+- Peace
+- Comfort for families
+- Strength for the people of Israel
 
 From your heart to God's ear.
-
-[Place a Prayer for Jerusalem Today](link-to-prayer-placement)
-
----
 
 With love and faith,
 The Pilgrim Prayers Team
 
-*P.S. Every prayer placed for Jerusalem in these days matters. Our team is on the ground, at the sacred sites. We will carry yours.*
+**[Place a Prayer for Israel Today]**
 
 ---
 
-## Email Structure Review
+## Gatekeeper Notes
 
-- Subject line: Presence + continuity ("even now")
-- Preheader: Bridges into body, creates soft urgency
-- Opening: Scene-setting, grounded, quiet
-- Scripture: Psalm 122:6 as anchor
-- CTA 1: Blog post link (story first)
-- CTA 2: Prayer placement (action)
-- P.S.: Quiet urgency, no pressure
-
-**Word count:** ~160 words (body only)
+- Zero em dashes: pending check
+- Subject line clear and action-oriented: yes
+- Scripture included (Psalm 122:6): yes
+- No geopolitical framing: yes
+- No false promises: yes
+- Brand voice (warm, faithful, not preachy): yes
+- Active CTA language: yes
+- One CTA only: yes
