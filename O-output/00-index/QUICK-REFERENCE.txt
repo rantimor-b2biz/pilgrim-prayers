@@ -1,0 +1,225 @@
+================================================================================
+O-OUTPUT FOLDER STRUCTURE — QUICK REFERENCE
+================================================================================
+
+FOLDER NUMBERS & PURPOSES:
+  00 = Navigation & guides
+  01 = Planning (briefs)
+  02 = Production (agent work)
+  03 = Published (final posts)
+  04 = Campaigns (email, social)
+  05 = Archive (old work)
+  06 = Ads (paid advertising)
+
+================================================================================
+FOLDER MAP
+================================================================================
+
+00-index/
+  ├─ INDEX.md ......................... Master navigation
+  ├─ STRUCTURE.md ..................... Visual diagrams
+  ├─ REORGANIZATION-SUMMARY.md ........ What changed
+  ├─ FINAL-STRUCTURE.md .............. Complete structure
+  └─ QUICK-REFERENCE.txt ............. This file
+
+01-briefs/
+  └─ week-8/
+     ├─ 2026-02-24-week8-garden-tomb-brief.md (MAIN) ⭐
+     ├─ 2026-02-24-research-agent-brief.md
+     ├─ 2026-02-24-storyteller-agent-brief.md
+     ├─ 2026-02-24-WEEK8-CONTENT-WORKFLOW.md
+     ├─ WEEK8-QUICK-START.md
+     └─ README-WEEK8.md
+
+02-deliverables/
+  └─ week-8-deliverables/
+     ├─ research/ .................... Save here: Research Agent
+     ├─ storyteller/ ................. Save here: Storyteller Agent
+     ├─ copywriter/ .................. Save here: Copywriter Agent
+     ├─ gatekeeper/ .................. Save here: Gatekeeper Agent
+     ├─ visual/ ...................... Save here: Visual Agent
+     └─ newsletter/ .................. Save here: Newsletter Agent
+
+03-published/
+  └─ blog-posts/2026-02/week-8/ ...... Final published posts
+
+04-campaigns/
+  └─ email/2026-02/ .................. Email campaigns
+
+05-archive/
+  └─ blog-posts/
+     ├─ week-08/ ..................... Old week 8 posts
+     ├─ week-12/ ..................... Old week 12 posts
+     └─ week-13/ ..................... Old week 13 posts
+
+06-ads/
+  ├─ legacy/ ......................... Old ads folder
+  └─ search-campaigns/ ............... Active ad campaigns
+
+================================================================================
+WHERE TO SAVE WHAT
+================================================================================
+
+"I'm creating a new week's brief"
+  → 01-briefs/week-[X]/[DATE]-week-[X]-brief.md
+
+"I'm a Research Agent, where do I save?"
+  → 02-deliverables/week-[X]-deliverables/research/[DATE]-[topic]-research.md
+
+"I'm a Storyteller Agent, where do I save?"
+  → 02-deliverables/week-[X]-deliverables/storyteller/[DATE]-[topic]-story.md
+
+"I'm a Copywriter Agent, where do I save?"
+  → 02-deliverables/week-[X]-deliverables/copywriter/[DATE]-[topic]-post.md
+
+"I'm a Gatekeeper Agent, where do I save review?"
+  → 02-deliverables/week-[X]-deliverables/gatekeeper/[DATE]-[topic]-review.md
+
+"I'm a Visual Agent, where do I save direction?"
+  → 02-deliverables/week-[X]-deliverables/visual/[DATE]-[topic]-visual-direction.md
+
+"I'm a Newsletter Agent, where do I save email?"
+  → 02-deliverables/week-[X]-deliverables/newsletter/[DATE]-[topic]-email.md
+
+"I have a final blog post, where does it go?"
+  → 03-published/blog-posts/2026-02/week-[X]/[topic-name].md
+
+"I have an email campaign, where does it go?"
+  → 04-campaigns/email/2026-02/week-[X]/[campaign-name].md
+
+"I want to archive an old post"
+  → 05-archive/blog-posts/week-[X]/[post-name]/
+
+"I want to save ad campaign data"
+  → 06-ads/search-campaigns/[campaign-name]/
+
+================================================================================
+CONTENT FLOW
+================================================================================
+
+PLAN
+  ↓
+01-briefs/week-8/
+(Create briefs, send to agents)
+  ↓
+PRODUCE
+  ↓
+02-deliverables/week-8-deliverables/
+(Agents save work, iterate, review)
+  ↓
+PUBLISH
+  ↓
+03-published/blog-posts/2026-02/week-8/
+(Final post published)
+  ↓
+CAMPAIGN
+  ↓
+04-campaigns/email/2026-02/
+(Email campaign launches)
+  ↓
+ARCHIVE
+  ↓
+Everything stays in:
+├─ 03-published/ (permanent)
+├─ 04-campaigns/ (permanent)
+├─ 05-archive/ (permanent reference)
+└─ 06-ads/ (performance tracking)
+
+================================================================================
+FILE NAMING
+================================================================================
+
+[DATE]-[TYPE]-[SUBJECT].md
+
+Examples:
+  2026-02-24-week8-garden-tomb-brief.md
+  2026-02-24-garden-tomb-research.md
+  2026-02-24-garden-tomb-post.md
+  2026-02-24-garden-tomb-email.md
+
+Breakdown:
+  [DATE]     = When file was created (YYYY-MM-DD)
+  [TYPE]     = What kind of file (week8, garden-tomb, email, etc)
+  [SUBJECT]  = What it contains (brief, research, post, email)
+
+================================================================================
+QUICK NAVIGATION
+================================================================================
+
+Start here:
+  → 00-index/INDEX.md
+
+Visual guide:
+  → 00-index/STRUCTURE.md
+
+Understand reorganization:
+  → 00-index/REORGANIZATION-SUMMARY.md
+
+Complete structure details:
+  → 00-index/FINAL-STRUCTURE.md
+
+This week's brief:
+  → 01-briefs/week-8/2026-02-24-week8-garden-tomb-brief.md
+
+Quick start:
+  → 01-briefs/week-8/WEEK8-QUICK-START.md
+
+================================================================================
+RULES
+================================================================================
+
+✓ DO:
+  ✓ Save briefs in 01-briefs/
+  ✓ Save agent work in 02-deliverables/[agent]/
+  ✓ Move final posts to 03-published/
+  ✓ Save campaigns in 04-campaigns/
+  ✓ Keep old work in 05-archive/
+  ✓ Use date-based naming
+  ✓ Keep everything organized by week
+
+✗ DON'T:
+  ✗ Save files in O-output root
+  ✗ Delete old posts
+  ✗ Overwrite drafts
+  ✗ Mix agent work with published content
+  ✗ Use confusing file names
+
+================================================================================
+CURRENT STATUS (2026-02-24)
+================================================================================
+
+Planning:       ✅ Complete (Week 8 briefs ready)
+Production:     ⏳ In Progress (Agents working)
+Publishing:     Ready (Waiting for approval)
+Campaigns:      Ready (Waiting for publish)
+Archive:        ✅ Organized (Old posts sorted by week)
+Ads:            ✅ Organized
+
+================================================================================
+FOLDER CHECKLIST
+================================================================================
+
+When creating new content, ensure:
+  [ ] Briefs go in 01-briefs/week-[X]/
+  [ ] Agent work goes in 02-deliverables/week-[X]-deliverables/[agent]/
+  [ ] Published posts go in 03-published/blog-posts/2026-02/week-[X]/
+  [ ] Campaigns go in 04-campaigns/email/2026-02/
+  [ ] Old work goes in 05-archive/
+  [ ] Ad data goes in 06-ads/
+  [ ] Files follow naming: [DATE]-[TYPE]-[SUBJECT].md
+
+================================================================================
+KEY TAKEAWAYS
+================================================================================
+
+1. O-output is organized by STAGE (01→02→03→04)
+2. Each stage has its own folder (01-briefs, 02-deliverables, etc)
+3. Content flows logically: Plan → Produce → Publish → Campaign → Archive
+4. Everything is organized by DATE and WEEK
+5. It's obvious where to find and save everything
+
+================================================================================
+Questions? Read 00-index/INDEX.md for full details.
+
+© Pilgrim Prayers Content System — 2026-02-24
+================================================================================

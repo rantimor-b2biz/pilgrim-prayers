@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pilgrim Prayers//Team Standup//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:pilgrim-prayers-team-standup@getagents.today
+DTSTART:20260302T070000Z
+DTEND:20260302T083000Z
+RRULE:FREQ=WEEKLY;BYDAY=SU
+SUMMARY:Pilgrim Prayers Weekly Team Standup
+DESCRIPTION:Weekly team coordination and performance review
+ MEETING DETAILS:
+ - Led by: Agency Manager (Gatekeeper Agent)
+ - Attendees: All agents + Project Lead
+ - Duration: 90 minutes
+
+ AGENDA:
+ 1. Performance Review (20 min) - Last week's metrics and insights
+ 2. Status Check (15 min) - Current week deliverable progress
+ 3. Strategic Recommendations (20 min) - What to focus on next week
+ 4. Action Planning (30-40 min) - Assign next week's tasks to all agents
+ 5. Priority Summary (5 min) - Clear priority for each agent
+
+ OUTCOMES:
+ ✅ Clear task assignments for all agents
+ ✅ Performance data drives all decisions
+ ✅ Competitive intelligence updates
+ ✅ Monday EOD deadline status confirmed
+ ✅ New opportunities identified
+
+ PREPARATION:
+ Agency Manager prepares metrics dashboard and recommendations on Friday/Saturday
+
+ DOCUMENTATION:
+ - Meeting minutes saved to project
+ - Decisions logged to M-memory files
+ - Task assignments shared immediately after
+
+ FILE: A-agents/WEEKLY-TEAM-STANDUP.md
+LOCATION:Video Conference
+ORGANIZER;CN=Agency Manager:mailto:team@pilgrimpayers.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;CN=Research Agent:mailto:research@pilgrimpayers.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;CN=Storyteller Agent:mailto:storyteller@pilgrimpayers.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;CN=Copywriter Agent:mailto:copywriter@pilgrimpayers.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;CN=Newsletter Agent:mailto:newsletter@pilgrimpayers.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;CN=Visual Agent:mailto:visual@pilgrimpayers.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;CN=Paid Search Agent:mailto:paidearch@pilgrimpayers.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;CN=Performance Analyst:mailto:performance@pilgrimpayers.com
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20260224T000000Z
+LAST-MODIFIED:20260224T000000Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pilgrim Prayers//Team Standup//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pilgrim Prayers - Weekly Team Standup
+X-WR-TIMEZONE:Asia/Jerusalem
+X-WR-CALDESC:Weekly team coordination and performance review every Sunday 9 AM
+
+BEGIN:VEVENT
+UID:pilgrim-prayers-team-standup-2026@pilgrimpayers.com
+DTSTAMP:20260224T000000Z
+DTSTART:20260302T070000Z
+DTEND:20260302T083000Z
+RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20261231T235959Z
+SUMMARY:Pilgrim Prayers - Weekly Team Standup
+DESCRIPTION:Agency Manager reviews performance and assigns weekly tasks
+
+ORGANIZER;CN=Agency Manager;EMAIL=team@pilgrimpayers.com:mailto:team@pilgrimpayers.com
+ATTENDEE;CN=Ran (Project Lead);ROLE=REQ-PARTICIPANT;RSVP=TRUE;EMAIL=rantimor@gmail.com:mailto:rantimor@gmail.com
+ATTENDEE;CN=Research Agent;ROLE=REQ-PARTICIPANT;RSVP=TRUE:mailto:research@pilgrimpayers.com
+ATTENDEE;CN=Storyteller Agent;ROLE=REQ-PARTICIPANT;RSVP=TRUE:mailto:storyteller@pilgrimpayers.com
+ATTENDEE;CN=Copywriter Agent;ROLE=REQ-PARTICIPANT;RSVP=TRUE:mailto:copywriter@pilgrimpayers.com
+ATTENDEE;CN=Newsletter Agent;ROLE=REQ-PARTICIPANT;RSVP=TRUE:mailto:newsletter@pilgrimpayers.com
+ATTENDEE;CN=Visual Agent;ROLE=REQ-PARTICIPANT;RSVP=TRUE:mailto:visual@pilgrimpayers.com
+ATTENDEE;CN=Paid Search Agent;ROLE=REQ-PARTICIPANT;RSVP=TRUE:mailto:paidearch@pilgrimpayers.com
+ATTENDEE;CN=Performance Analyst;ROLE=REQ-PARTICIPANT;RSVP=TRUE:mailto:performance@pilgrimpayers.com
+
+LOCATION:Video Conference (Zoom/Google Meet)
+STATUS:CONFIRMED
+SEQUENCE:0
+CREATED:20260224T000000Z
+LAST-MODIFIED:20260224T000000Z
+
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:HIGH
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+
+TRANSP:OPAQUE
+
+CATEGORIES:Meeting,Team,Standup
+
+COMMENT:Weekly Team Standup - Performance Review and Task Assignment\n\nAGENDA (90 minutes):\n1. Performance Review (20 min) - Last week's metrics\n2. Status Check (15 min) - Current week progress\n3. Strategic Recommendations (20 min) - Focus for next week\n4. Action Planning (30-40 min) - Task assignments\n5. Priority Summary (5 min) - One-liner clarity\n\nSEE: A-agents/WEEKLY-TEAM-STANDUP.md for full protocol
+
+END:VEVENT
+
+END:VCALENDAR
