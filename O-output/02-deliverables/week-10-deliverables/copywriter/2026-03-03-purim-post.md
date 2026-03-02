@@ -1,58 +1,77 @@
-# Blog Post: "The Feast of Remembrance: When Faith Survives Empire"
+# Blog Post: "Purim in the Shelter: How Faith Kept Moving"
 
 **Publication:** Tuesday, March 3, 2026
 **Format:** Blog post for website + newsletter
-**Length:** ~750 words
-**Tone:** Warm, faithful, grounded, not preachy
+**Length:** ~800 words
+**Tone:** Warm, faithful, grounded, authentic to reality without politics
 
 ---
 
 ## The Blog Post
 
-**Purim arrives this week.** And with it, a story that has traveled farther than empires themselves.
+**This past weekend, Purim happened in bomb shelters.**
 
-If you know the Book of Esther, you know how it begins: a Jewish girl raised in hiding. A king who doesn't know her name. A rival named Haman who writes a decree: on a single day, all the Jews will be destroyed.
+Not as a metaphor. In actual shelters. In Jerusalem. In homes. Underground. Because the sky above wasn't safe.
 
-It's the kind of story that doesn't feel ancient. It feels like it could be tomorrow.
+If you know the Book of Esther, you know the feeling. A girl named Esther woke to a decree that said: on a single day, your people will be destroyed. No way out. No time to think. Just the weight of an impossible moment and the choice to act anyway.
 
-But here's what happens: Esther speaks. Mordecai calls for a fast. Faith moves in the quiet places where no one was looking. And by the time the story ends, the plot is reversed. The people Haman meant to destroy are the ones left standing.
+Purim commemorates what came next.
 
-The feast of Purim commemorates not triumph, but *survival against the odds*.
+The story says Esther spoke. Mordecai called for a fast. Faith moved in the hidden places where no one expected it. And somehow, the machinery of destruction reversed. The people meant to die lived instead.
 
----
+This past weekend, believers in Jerusalem read that same story. In shelters. By flashlight. On phones. Some gathered illegally in small circles because the army banned public gatherings. Some recited the words alone.
 
-## Why This Matters Right Now
-
-Purim is celebrated in Jerusalem this week. Believers will gather in the Old City, on the same streets where Esther might have walked, in a land that has been through its own versions of that ancient story.
-
-The irony isn't lost: Purim celebrates deliverance from empire. And the very place where it happened — between Jerusalem and the lands once called Persia — carries the weight of that history into today.
-
-We don't need to resolve the politics to honor the story. But we can honor what believers have always seen in it: **that faith doesn't depend on the empire being kind. It depends on whether you remember who you are when everything says you shouldn't exist.**
+The irony would be funny if it wasn't so real: Purim celebrates deliverance from empire. This year, it was celebrated while living under the weight of one.
 
 ---
 
-## What Purim Says to Believers Today
+## What Happened
 
-The festival itself is joyful. Purim isn't solemn. There are costumes, feasts, wine, and a defiant kind of celebration. Because the point isn't to live in fear of Haman. The point is to remember that Haman lost.
+Between February 26 and March 2, the ancient story of Purim echoed across Israel and beyond in a way that felt less like memory and more like now.
 
-For the faithful around the world who can't be in Jerusalem this week, there's still a way to be present: to place a prayer at the Western Wall. To remember the women and men who walked these streets in crisis and walked out alive. To join a faith that has always known that empires come and go, but prayers reach deeper than borders.
+The streets of Jerusalem didn't fill with costumes and feasts. They filled with silence. The gatherings moved underground. Public readings of the Book of Esther were forbidden. Believers did what they've always done when empires made it illegal to gather: they gathered anyway, in smaller circles, in quieter ways.
 
----
-
-## The Pilgrimage Within
-
-You don't have to be in Jerusalem to be spiritually present there.
-
-The land remembers. The stones remember. And the people of faith who place their prayers there become part of a story that has already survived impossible odds.
-
-That's what Purim teaches us.
-
-Not that everything will be easy. Not that the powerful will suddenly be kind. But that faith is a kind of survival that empires cannot reach. That a girl speaking to a king can reverse the machinery of destruction. That prayers travel farther than feet.
-
-When you place your prayer at the Western Wall this week, you're not just sending words into the air. You're joining a 2,500-year-old story of people who refused to disappear.
-
-**Your prayer matters. And it deserves to be part of that story.**
+And the prayers kept moving.
 
 ---
 
-*Written March 1, 2026 | Published March 3, 2026*
+## The Faith Part
+
+Here's what nobody talks about: faith isn't about things being easy. It's not about feeling safe or having permission to gather or being promised a good outcome.
+
+Faith is about showing up to the ancient story anyway. Reading the words. Saying them aloud even when you're not supposed to. Placing a prayer at the Western Wall even when the sky is dangerous. Holding space for a holiday that says: "This happened once. We survived. We're still here."
+
+The believers who placed prayers at the Western Wall this past weekend weren't doing it because they were confident or comfortable. They were doing it because faith doesn't wait for comfort. Because 2,500 years ago, a girl named Esther didn't wait to feel safe either.
+
+She acted. She spoke. She placed her trust somewhere deeper than the visible world.
+
+---
+
+## Why This Reaches You
+
+You're reading this because you long to place your prayers at holy sites. You understand something about faith that doesn't fit neatly into the easy narratives. You know that belief persists not when everything is calm, but *when everything is loud*.
+
+The believers in Jerusalem this past weekend were you, in a way. They couldn't gather freely. They couldn't meet as they wanted. But they found ways. Smaller gatherings. Zoom recitations. Whispered readings. Private prayers at the Wall.
+
+Because prayer doesn't depend on circumstances being ideal. It depends on whether you show up.
+
+---
+
+## The Spiritual Presence
+
+You don't have to be in Jerusalem to understand what happened there. You don't have to be safe to place a prayer.
+
+The land remembers what the believers learned this weekend. The stones of the Western Wall remember the prayers placed there during uncertainty. The ancient story of Esther remembers that faith looks different in different moments: sometimes it's a feast, sometimes it's a whisper in the dark.
+
+When you place your prayer at that wall, you're not joining a comfortable tradition. You're joining a story of people who kept showing up, kept believing, kept praying, even when the empire said no.
+
+That's what Purim is really about.
+
+Not triumph. Survival. Not victory. Persistence. Not the absence of fear. The choice to act despite it.
+
+**Your prayer matters. Especially when the world makes it harder to pray.**
+
+---
+
+*Written March 2, 2026 | Published March 3, 2026*
+*In the day after Purim, in a year when faith had to get smaller to stay true*
