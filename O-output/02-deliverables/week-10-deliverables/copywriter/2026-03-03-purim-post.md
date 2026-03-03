@@ -53,9 +53,7 @@ The believers in Jerusalem this past weekend — in their homes, in smaller gath
 
 2,500 years ago, a girl named Esther didn't wait to feel safe. She acted. She spoke. She placed her trust somewhere deeper than what was visible.
 
-This past weekend, believers did the same thing.
-
-They showed up. They prayed. They insisted that the story mattered.
+This past weekend, believers answered that same call.
 
 ---
 
@@ -87,7 +85,7 @@ This past weekend, believers in Jerusalem answered that same call.
 
 Now it's your moment.
 
-Place your prayer at the Western Wall today and be part of a story that refuses to stop.
+Place your prayer at the Western Wall today and be part of what is happening in Jerusalem right now.
 
 Faith does not wait for ideal circumstances.
 

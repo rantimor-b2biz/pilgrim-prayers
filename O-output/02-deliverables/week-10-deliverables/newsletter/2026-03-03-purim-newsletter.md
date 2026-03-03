@@ -11,10 +11,6 @@
 
 ## Email Body
 
-**Subject:** When faith survives the unthinkable: A Purim reflection
-
----
-
 This past weekend, Purim unfolded across Israel — not in the way anyone planned, but in the way believers have always kept the story alive: by showing up.
 
 The story of Esther is about an impossible moment. A girl wakes to a decree that says everything will be taken. No way out. No guarantee. Just the weight of that moment and what she chooses to do next.
@@ -50,6 +46,8 @@ Prayer reaches deeper than what we see around us.
 Your prayer can be part of this story right now.
 
 Place your prayer at the Western Wall. Not when it's easy. Right now. Because that's what faith is: showing up anyway.
+
+This week, your prayer can stand alongside those already placed in Jerusalem.
 
 ---
 
