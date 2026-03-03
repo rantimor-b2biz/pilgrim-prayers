@@ -1,8 +1,8 @@
 # Newsletter Email: Purim Reflection
 
-**Subject line:** When faith survives the unthinkable: A Purim reflection
+**Subject line:** Purim happened underground this year. Here's why it matters.
 
-**Preview text:** The story that feels like today — and why believers still celebrate it after 2,500 years.
+**Preview text:** When believers prayed anyway. A reflection on faith that doesn't wait for safety.
 
 **Send date:** Tuesday, March 3, 2026
 **Send time:** 9:00 AM EST
@@ -15,33 +15,37 @@
 
 ---
 
-A story that still feels urgent.
+This past weekend, Purim happened in shelters.
 
-This week is Purim. The feast of remembrance. The day believers celebrate that Esther spoke when she didn't know if speaking would kill her. That Mordecai called for prayer when it seemed like the prayer was already too late. That the impossible reversed.
+Not as a metaphor. In actual underground spaces. In Jerusalem. In homes. In small circles reading the Book of Esther by phone light because the sky outside wasn't safe.
 
-The Purim story takes place in ancient Persia. Haman, the rival, writes a decree: all Jews will be destroyed. It's the kind of story we think happened a long time ago. But read it again and it feels like it could be happening now.
+The story of Esther begins with an impossible moment: a girl wakes to a decree that says her entire people will be destroyed. No way out. No guarantee. Just the weight of that moment and what she chooses to do next.
 
----
-
-**This is why Purim matters to believers in 2026.**
-
-The land where Esther lived is the land believers visit to place their prayers. The same land between Jerusalem and the territories once called Persia. The same land where, 2,500 years later, faith communities still gather to remember: *we survived this. We are still here.*
-
-Purim isn't a solemn holiday. It's joyful. Defiant, even. Because the feast says something powerful: you can laugh at what tried to destroy you. You can celebrate what the empire meant to take. You can gather with your people and know that Haman lost.
+She speaks. She acts. She places her trust in something invisible.
 
 ---
 
-**The prayers being placed at the Western Wall this week** (by believers who can't be there in body) are part of that same story.
+**This is why Purim happened this year anyway.**
 
-They're placed by people who know what it means to be far from home and close to faith. People who understand that empires rise and fall, but prayers reach deeper than borders.
+The land where Esther lived is the land believers visited to place their prayers. The same land between Jerusalem and the territories once called Persia. The same land where, 2,500 years later, faith communities refused to stop gathering, even when gatherings were forbidden.
 
-Prayers travel farther than feet.
+Purim this year wasn't about celebration in the comfortable sense. It was about persistence. Believers read the megillah in smaller circles. Some gathered illegally. Some did it alone. Some placed prayers at the Western Wall knowing the cost.
+
+Because that's what faith looks like when empires tell it to stop: it keeps moving.
 
 ---
 
-**If you've ever longed to place a prayer at a sacred place you can't reach, Purim week is the moment.**
+**The prayers placed at the Western Wall this past weekend** (by believers far from home and even those closer who couldn't gather openly) were part of that ancient story.
 
-Your prayer can be part of the oldest story of survival and faith the world knows.
+They're placed by people who understand something about faith that only becomes clear when circumstances are hard: belief doesn't wait for permission. Prayer reaches deeper than borders.
+
+Prayers travel farther than safety.
+
+---
+
+**If you've ever longed to place a prayer at a sacred place you can't reach, or when the moment feels uncertain, you already understand what happened this past weekend.**
+
+Your prayer can be part of the oldest story of faith persisting against odds.
 
 ---
 
