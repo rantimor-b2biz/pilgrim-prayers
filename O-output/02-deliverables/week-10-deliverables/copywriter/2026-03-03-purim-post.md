@@ -17,6 +17,8 @@ If you know the Book of Esther, you know the feeling. A girl named Esther woke t
 
 She spoke. She trusted. She moved.
 
+"Who knows whether you have come to the kingdom for such a time as this?" — Esther 4:14
+
 Purim commemorates what came next: deliverance. Not because circumstances became easy, but because faith didn't wait for them to.
 
 This past weekend, believers in Jerusalem read that same story. In smaller gatherings. By candlelight and phone light. Some in homes. Some in groups. Some alone. Children still wore costumes. People still marked the day. The megillah was still read.
@@ -79,13 +81,17 @@ The land remembers. The stones of the Western Wall remember every prayer placed 
 
 When you place your prayer at that wall, you're not joining a comfortable tradition. You're joining a story of believers who kept showing up, kept praying, kept trusting — exactly as you're doing now.
 
-Esther didn't wait for perfect conditions. She prayed. She acted. She trusted.
+Esther acted "for such a time as this."
 
-This past weekend, believers in Jerusalem did the same thing.
+This past weekend, believers in Jerusalem answered that same call.
 
-And now, so can you.
+Now it's your moment.
 
-**Place your prayer at the Western Wall.** Not when it's easy. Right now. Because faith is what you do when you show up anyway.
+Place your prayer at the Western Wall today and be part of a story that refuses to stop.
+
+Faith does not wait for ideal circumstances.
+
+It moves.
 
 ---
 

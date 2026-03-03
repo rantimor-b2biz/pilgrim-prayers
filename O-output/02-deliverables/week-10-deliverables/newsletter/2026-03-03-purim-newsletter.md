@@ -29,6 +29,8 @@ Purim celebrates what comes next: deliverance. Not because circumstances became 
 
 They gathered however they could. Smaller circles. Home gatherings. Some children wore costumes. People read the megillah. The story was told.
 
+And even in uncertain days, the story did not pause.
+
 Prayers were placed at the Western Wall.
 
 It wasn't the celebration anyone imagined. But it was real. It was faithful. It was believers showing up and saying: "This story matters. We're still here. We still believe."
