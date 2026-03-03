@@ -9,69 +9,85 @@
 
 ## The Blog Post
 
-**This past weekend, Purim happened in bomb shelters.**
+**This past weekend, Purim looked different than expected.**
 
-Not as a metaphor. In actual shelters. In Jerusalem. In homes. Underground. Because the sky above wasn't safe.
+Not as a metaphor. Different in actual ways. In Jerusalem. In homes. In smaller circles. Because circumstances made gathering complicated, believers did what they've always done: they kept the story alive anyway.
 
-If you know the Book of Esther, you know the feeling. A girl named Esther woke to a decree that said: on a single day, your people will be destroyed. No way out. No time to think. Just the weight of an impossible moment and the choice to act anyway.
+If you know the Book of Esther, you know the feeling. A girl named Esther woke to a decree that said: on a single day, your people will be destroyed. No way out. No guarantee. Just the weight of an impossible moment and the choice to act anyway.
 
-Purim commemorates what came next.
+She spoke. She trusted. She moved.
 
-The story says Esther spoke. Mordecai called for a fast. Faith moved in the hidden places where no one expected it. And somehow, the machinery of destruction reversed. The people meant to die lived instead.
+Purim commemorates what came next: deliverance. Not because circumstances became easy, but because faith didn't wait for them to.
 
-This past weekend, believers in Jerusalem read that same story. In shelters. By flashlight. On phones. Some gathered illegally in small circles because the army banned public gatherings. Some recited the words alone.
+This past weekend, believers in Jerusalem read that same story. In smaller gatherings. By candlelight and phone light. Some in homes. Some in groups. Some alone. Children still wore costumes. People still marked the day. The megillah was still read.
 
-The irony would be funny if it wasn't so real: Purim celebrates deliverance from empire. This year, it was celebrated while living under the weight of one.
+The connection between then and now is simple: faith doesn't depend on conditions being ideal. It depends on whether you show up.
 
 ---
 
-## What Happened
+## What Actually Happened
 
-Between February 26 and March 2, the ancient story of Purim echoed across Israel and beyond in a way that felt less like memory and more like now.
+Between February 26 and March 2, Purim unfolded across Israel and the world in ways both ancient and immediate.
 
-The streets of Jerusalem didn't fill with costumes and feasts. They filled with silence. The gatherings moved underground. Public readings of the Book of Esther were forbidden. Believers did what they've always done when empires made it illegal to gather: they gathered anyway, in smaller circles, in quieter ways.
+The story of Esther was read. Believers gathered in whatever ways were possible. Smaller circles. Home gatherings. Digital connections. Some found themselves in shelters reading words that echoed strangely across 2,500 years: "When everything seems lost, act anyway."
+
+Prayers were still placed at the Western Wall.
+
+Children still heard the Purim story. The holiday still happened. Not in the way anyone planned, but in the way it's always happened when believers insisted on keeping the story alive despite whatever circumstances surrounded them.
 
 And the prayers kept moving.
 
 ---
 
-## The Faith Part
+## The Real Story
 
-Here's what nobody talks about: faith isn't about things being easy. It's not about feeling safe or having permission to gather or being promised a good outcome.
+Here's what matters: faith isn't about circumstances being easy. It's not about having permission or being promised a good outcome.
 
-Faith is about showing up to the ancient story anyway. Reading the words. Saying them aloud even when you're not supposed to. Placing a prayer at the Western Wall even when the sky is dangerous. Holding space for a holiday that says: "This happened once. We survived. We're still here."
+Faith is about showing up anyway.
 
-The believers who placed prayers at the Western Wall this past weekend weren't doing it because they were confident or comfortable. They were doing it because faith doesn't wait for comfort. Because 2,500 years ago, a girl named Esther didn't wait to feel safe either.
+Reading the words. Telling the children the story. Placing a prayer at the Western Wall. Marking the holiday that says: "This happened once. We survived. We do again."
 
-She acted. She spoke. She placed her trust somewhere deeper than the visible world.
+The believers in Jerusalem this past weekend — in their homes, in smaller gatherings, placing prayers — weren't doing it because everything felt safe or simple. They were doing it because prayer doesn't depend on circumstances being ideal. It depends on whether you show up.
+
+2,500 years ago, a girl named Esther didn't wait to feel safe. She acted. She spoke. She placed her trust somewhere deeper than what was visible.
+
+This past weekend, believers did the same thing.
+
+They showed up. They prayed. They insisted that the story mattered.
 
 ---
 
 ## Why This Reaches You
 
-You're reading this because you long to place your prayers at holy sites. You understand something about faith that doesn't fit neatly into the easy narratives. You know that belief persists not when everything is calm, but *when everything is loud*.
+You're reading this because you long to place your prayers at holy sites. You understand something about faith that real life confirms: belief doesn't depend on perfect circumstances. It depends on whether you show up.
 
-The believers in Jerusalem this past weekend were you, in a way. They couldn't gather freely. They couldn't meet as they wanted. But they found ways. Smaller gatherings. Zoom recitations. Whispered readings. Private prayers at the Wall.
+The believers in Jerusalem this past weekend were you, in a way. They found themselves in circumstances they didn't choose. So they gathered how they could — smaller circles, home gatherings, online connections. They read the story. They marked the day. They placed their prayers.
 
-Because prayer doesn't depend on circumstances being ideal. It depends on whether you show up.
+They showed up.
+
+That's what matters. Not the size of the gathering. Not whether everything felt safe. Whether you place your prayer when circumstances are ideal or when they're complicated, what matters is this: you place it.
+
+You show up. You pray. You join a 2,500-year-old story of believers who did the same thing.
 
 ---
 
-## The Spiritual Presence
+## You Don't Have to Be There
 
-You don't have to be in Jerusalem to understand what happened there. You don't have to be safe to place a prayer.
+You don't have to be in Jerusalem to be part of this story. You don't have to be in perfect circumstances to place a prayer.
 
-The land remembers what the believers learned this weekend. The stones of the Western Wall remember the prayers placed there during uncertainty. The ancient story of Esther remembers that faith looks different in different moments: sometimes it's a feast, sometimes it's a whisper in the dark.
+The land remembers. The stones of the Western Wall remember every prayer placed there — in celebration, in sorrow, in uncertainty, in hope. The ancient story of Esther remembers that faith looks different in different moments. Sometimes it's a feast. Sometimes it's a gathering in a home. Sometimes it's a single prayer.
 
-When you place your prayer at that wall, you're not joining a comfortable tradition. You're joining a story of people who kept showing up, kept believing, kept praying, even when the empire said no.
+When you place your prayer at that wall, you're not joining a comfortable tradition. You're joining a story of believers who kept showing up, kept praying, kept trusting — exactly as you're doing now.
 
-That's what Purim is really about.
+Esther didn't wait for perfect conditions. She prayed. She acted. She trusted.
 
-Not triumph. Survival. Not victory. Persistence. Not the absence of fear. The choice to act despite it.
+This past weekend, believers in Jerusalem did the same thing.
 
-**Your prayer matters. Especially when the world makes it harder to pray.**
+And now, so can you.
+
+**Place your prayer at the Western Wall.** Not when it's easy. Right now. Because faith is what you do when you show up anyway.
 
 ---
 
 *Written March 2, 2026 | Published March 3, 2026*
-*In the day after Purim, in a year when faith had to get smaller to stay true*
+*The day after Purim, when believers everywhere are still showing up*

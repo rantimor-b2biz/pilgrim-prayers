@@ -1,8 +1,8 @@
 # Newsletter Email: Purim Reflection
 
-**Subject line:** Purim happened underground this year. Here's why it matters.
+**Subject line:** Faith didn't stop: Purim in Jerusalem this year
 
-**Preview text:** When believers prayed anyway. A reflection on faith that doesn't wait for safety.
+**Preview text:** How believers showed up when circumstances got harder.
 
 **Send date:** Tuesday, March 3, 2026
 **Send time:** 9:00 AM EST
@@ -15,37 +15,39 @@
 
 ---
 
-This past weekend, Purim happened in shelters.
+This past weekend, Purim unfolded across Israel — not in the way anyone planned, but in the way believers have always kept the story alive: by showing up.
 
-Not as a metaphor. In actual underground spaces. In Jerusalem. In homes. In small circles reading the Book of Esther by phone light because the sky outside wasn't safe.
+The story of Esther is about an impossible moment. A girl wakes to a decree that says everything will be taken. No way out. No guarantee. Just the weight of that moment and what she chooses to do next.
 
-The story of Esther begins with an impossible moment: a girl wakes to a decree that says her entire people will be destroyed. No way out. No guarantee. Just the weight of that moment and what she chooses to do next.
+She speaks. She acts. She trusts.
 
-She speaks. She acts. She places her trust in something invisible.
-
----
-
-**This is why Purim happened this year anyway.**
-
-The land where Esther lived is the land believers visited to place their prayers. The same land between Jerusalem and the territories once called Persia. The same land where, 2,500 years later, faith communities refused to stop gathering, even when gatherings were forbidden.
-
-Purim this year wasn't about celebration in the comfortable sense. It was about persistence. Believers read the megillah in smaller circles. Some gathered illegally. Some did it alone. Some placed prayers at the Western Wall knowing the cost.
-
-Because that's what faith looks like when empires tell it to stop: it keeps moving.
+Purim celebrates what comes next: deliverance. Not because circumstances became easy, but because faith didn't wait for them to.
 
 ---
 
-**The prayers placed at the Western Wall this past weekend** (by believers far from home and even those closer who couldn't gather openly) were part of that ancient story.
+**This past weekend, believers in Jerusalem did the same thing.**
 
-They're placed by people who understand something about faith that only becomes clear when circumstances are hard: belief doesn't wait for permission. Prayer reaches deeper than borders.
+They gathered however they could. Smaller circles. Home gatherings. Some children wore costumes. People read the megillah. The story was told.
 
-Prayers travel farther than safety.
+Prayers were placed at the Western Wall.
+
+It wasn't the celebration anyone imagined. But it was real. It was faithful. It was believers showing up and saying: "This story matters. We're still here. We still believe."
 
 ---
 
-**If you've ever longed to place a prayer at a sacred place you can't reach, or when the moment feels uncertain, you already understand what happened this past weekend.**
+**The prayers placed this past weekend** — by believers near Jerusalem and believers far away — were part of that same ancient story.
 
-Your prayer can be part of the oldest story of faith persisting against odds.
+They're placed by people who understand something real: faith doesn't depend on perfect circumstances. It depends on whether you show up.
+
+Prayer reaches deeper than what we see around us.
+
+---
+
+**If you've ever longed to place a prayer at a sacred place, even when the moment felt uncertain or complicated, you understand what happened this past weekend.**
+
+Your prayer can be part of this story right now.
+
+Place your prayer at the Western Wall. Not when it's easy. Right now. Because that's what faith is: showing up anyway.
 
 ---
 
