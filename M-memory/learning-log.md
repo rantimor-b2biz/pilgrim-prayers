@@ -496,10 +496,79 @@ This applies to:
 
 ---
 
+## 2026-03-02 - Week 10 Purim: Revision for Balance (Authenticity + Conversion)
+
+### Status
+✅ FINAL - Ready for same-day publication (March 3)
+
+### What Happened
+Initial draft focused on authenticity and spiritual depth but overcorrected toward darkness and political language:
+- Used "empire," "illegal gathering," "forbidden" language
+- 80% shadow tone, missing light and hope
+- Strong theology, weak conversion signal
+- Risk of political misinterpretation by evangelical audience
+
+### Revision Strategy
+**Goal:** Keep authenticity + spiritual depth, add hope + clear action + no politics
+
+**Changes made:**
+1. **Language swap:**
+   - "Gathered illegally" → "Gathered how they could"
+   - "Empire said no" → "Circumstances got harder"
+   - "Forbidden gatherings" → "Smaller circles, home gatherings"
+   - Removed "empire," "illegal," "army banned" entirely
+
+2. **Tone rebalancing:**
+   - Added light: children, costumes, candles, continuation
+   - 50/50 challenge + hope (not 80% dark)
+   - Emphasized "showing up" as the hero narrative, not resistance
+
+3. **Conversion signal:**
+   - Changed ending from theological to actionable
+   - Added: "Place your prayer at the Western Wall. Right now. Because faith is what you do when you show up anyway."
+   - Newsletter subject: "Faith didn't stop" (affirming, not dark)
+
+### Key Principle Discovered
+**Authenticity ≠ Negativity**
+
+You can honor difficult circumstances WITHOUT:
+- Using politically charged language
+- Defaulting to shadow/resistance framing
+- Losing sight of the aspirational core
+
+Believers place prayers when they feel:
+- Connected (not afraid)
+- Empowered (not oppressed)
+- Part of something (not isolated)
+
+The revised post honors what happened while leading toward that emotional state.
+
+### Metrics
+**Before revision:**
+- Writing quality: 9/10
+- Brand alignment: 6/10 (too dark, too political)
+- Conversion potential: 5/10 (essay over call)
+
+**After revision:**
+- Writing quality: 9/10
+- Brand alignment: 9/10 (balanced, authentic, affirming)
+- Conversion potential: 8/10 (clear ask, emotional resonance)
+
+### Pattern for Future
+**When covering difficult events:**
+1. ✅ Honor what actually happened (not pretend)
+2. ✅ Find the light within the difficulty (not just shadow)
+3. ✅ Avoid politically charged language (matters more for faith content)
+4. ✅ End with action, not reflection
+5. ✅ Make the audience the hero ("you show up"), not the victim
+
+---
+
 ## Version History
 
 | Date | Update | By |
 |------|--------|-----|
+| 2026-03-02 | Week 10 Purim: Revised for balance (authenticity + conversion) | Claude |
 | 2026-03-02 | Critical standard: Authentic images only, no AI generation | Claude |
 | 2026-03-01 | Weekly post #9: Via Dolorosa - full pipeline approved | Claude |
 | 2026-02-26 | Audience language variations: Approved terms to vary copy while avoiding "evangelical" | Claude |
