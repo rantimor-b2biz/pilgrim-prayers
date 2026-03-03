@@ -33,7 +33,7 @@ Between February 26 and March 2, Purim unfolded across Israel and the world in w
 
 The story of Esther was read. Believers gathered in whatever ways were possible. Smaller circles. Home gatherings. Digital connections. Some found themselves in shelters reading words that echoed strangely across 2,500 years: "When everything seems lost, act anyway."
 
-Prayers were still placed at the Western Wall.
+Prayers were still placed at the Western Wall — quietly, faithfully, without pause.
 
 Children still heard the Purim story. The holiday still happened. Not in the way anyone planned, but in the way it's always happened when believers insisted on keeping the story alive despite whatever circumstances surrounded them.
 
@@ -65,9 +65,9 @@ The believers in Jerusalem this past weekend were you, in a way. They found them
 
 They showed up.
 
-That's what matters. Not the size of the gathering. Not whether everything felt safe. Whether you place your prayer when circumstances are ideal or when they're complicated, what matters is this: you place it.
+That's what matters. Not the size of the gathering. Not whether everything felt safe. Whether circumstances are ideal or complicated, what matters is this: you place it.
 
-You show up. You pray. You join a 2,500-year-old story of believers who did the same thing.
+You join a 2,500-year-old story of believers who did the same thing.
 
 ---
 

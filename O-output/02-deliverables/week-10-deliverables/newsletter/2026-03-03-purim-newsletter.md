@@ -47,6 +47,8 @@ Your prayer can be part of this story right now.
 
 Place your prayer at the Western Wall. Not when it's easy. Right now. Because that's what faith is: showing up anyway.
 
+In moments like this, prayer is not symbolic. It is participation.
+
 This week, your prayer can stand alongside those already placed in Jerusalem.
 
 ---
